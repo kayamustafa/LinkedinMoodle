@@ -5,7 +5,7 @@ Database model for the virtually integrated version of the popular web applicati
 - Appropriate SQL scripts for creating the database and populate it.
 - 3 Triggers
 - 3 Check constraints and 3 assertions
-- Insert, delete, update statements
+- Insert, delete statements
 - 10 Select statements
 - 5 Original select statements
 
